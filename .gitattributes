@@ -1,0 +1,8 @@
+# Generated on 2026-11-10
+yarn.lock linguist-generated
+* text=auto eol=lf
+*.html linguist-vendored
+*.woff2 binary
+*.bat text eol=crlf
+
+*.astro linguist-detectable
